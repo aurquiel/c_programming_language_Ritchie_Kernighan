@@ -4,12 +4,11 @@ not coma: /home/vector/Codeblocks/book/main.c|7|error: expected ‘;’ before �
 
 Not "\n" instruction: */
     
-    #include <stdio.h>
-     
-    main()
-    {
-        printf("hello, ");
-        printf("world!");
-    }
-    
-    
+#include <stdio.h>
+
+main()
+{
+    printf("hello, ");
+    printf("world!");
+}
+
