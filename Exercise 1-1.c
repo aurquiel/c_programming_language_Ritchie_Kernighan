@@ -6,9 +6,11 @@ Not "\n" instruction: */
     
 #include <stdio.h>
 
-main()
+int main()
 {
-    printf("hello, ");
-    printf("world!");
+	printf("hello, ");
+	printf("world!");
+
+	return 0;
 }
 
